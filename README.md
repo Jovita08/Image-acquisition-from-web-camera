@@ -108,13 +108,13 @@ cv2.destroyAllWindows()
 ![capture](./capture.jpg)
 
 ### ii) Display the video
-![display](./display.jpg)
+![display](./display.png)
 
 ### iii) Display the video by resizing the window
-![quad](./quad.jpg)
+![quad](./quad.png)
 
 ### iv) Rotate and display the video
-![quad_r](./quad_rotate.jpg)
+![quad_r](./quad_rotate.png)
 
 ## Result:
 Thus the image is accessed from webcamera and displayed using openCV.

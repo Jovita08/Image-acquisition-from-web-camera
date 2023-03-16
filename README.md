@@ -108,7 +108,7 @@ cv2.destroyAllWindows()
 <img width="500" src="./capture.jpg">
 
 ### ii) Display the video
-<img width="500" src="./display.png">
+<img width="500" src="https://user-images.githubusercontent.com/94174503/225519859-aa3150fd-d517-4635-bc1f-c0a4ec59021c.png">
 
 ### iii) Display the video by resizing the window
 <img width="500" src="./quad.png">
